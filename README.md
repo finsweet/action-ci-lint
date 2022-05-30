@@ -1,2 +1,3 @@
 # action-ci
- CI action for Linting, Formatting and Type Checking.
+
+CI action for linting, formatting, type checking and test running.
