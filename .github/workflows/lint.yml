@@ -27,7 +27,7 @@ jobs:
       - name: Build Project
         run: pnpm build
 
-      - name: Link & Check
+      - name: Lint & Check
         run: |
           pnpm lint
           pnpm check
